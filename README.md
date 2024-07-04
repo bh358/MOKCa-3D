@@ -30,9 +30,7 @@ Welcome to MOKCa-3D (the "https://bioinformaticslab.sussex.ac.uk/MOKCa-3D/"). By
 
 ## Privacy
 
-1. **Data Collection**: Pearl Bioinformatics may collect certain information about your use of the Database. This information will be used in accordance with our Privacy Policy.
-
-2. **Cookies**: The Database may use cookies to enhance user experience. By using the Database, you consent to the use of cookies.
+1. **Data Collection**: Pearl Bioinformatics does not collect any information about your use of the Database. 
 
 ## Changes to the Terms
 
